@@ -1,0 +1,8 @@
+{
+  "channelID": "YouTube Kanalınızın ID'si",
+  "APIKey": "YouTube Data V3 API Key'iniz",
+  "webhook": "Discord Webhook URL'niz",
+  "startTime": "24 Saat Sonra Başlama Saatiniz (Örnk: 13:15)",
+  "endTime": "24 Saat Sonra Bitiş Saatiniz (Örnk: 13:15 Veya 2:05) - Bitiş Saatinizin Başlangıç ​​Saatinizden Daha Geç Olduğundan Emin Olun, Aksi Takdirde Döngüye Girer",
+  "delay": "Gecikme Saatiniz (Saniye Cinsinden) (Örnk: 60 Saniye = 1 Dakika)"
+}
